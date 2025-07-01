@@ -1,7 +1,7 @@
 # Hi there, I'm Rafie Rojagat Bachri 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Welcome%20to %20my%20Github20%Profile!&fontSize=70&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Welcome%20to %20my%20Github20%Profile&fontSize=70&fontColor=fff&animation=fadeIn" />
   <br>
 </p>
 
