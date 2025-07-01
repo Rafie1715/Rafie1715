@@ -55,13 +55,13 @@ I am a final-year Informatics student at UPN Veteran Jakarta and a passionate **
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/rafie-rojagat" target="_blank">
+  <a href="https://linkedin.com/in/rafie-rojagat" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:rojagatrafie@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://instagram.com/rafie_rb" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://bit.ly/PortfolioRafie" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
+  <a href="mailto:rojagatrafie@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
