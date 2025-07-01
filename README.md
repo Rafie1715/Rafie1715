@@ -1,9 +1,8 @@
 # Hi there, I'm Rafie Rojagat Bachri 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Rafie%20Rojagat%20Bachri&fontSize=70&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Welcome%20to %20my%20Github20%Profile!&fontSize=70&fontColor=fff&animation=fadeIn" />
   <br>
-  <em>Welcome to my GitHub profile!</em>
 </p>
 
 I am a final-year Informatics student at UPN Veteran Jakarta and a passionate **2024 Bangkit Academy graduate** specializing in **Software Engineering**. My primary focus is on end-to-end application development, with a specialization in **Mobile Development (Kotlin)** and **Web Development (JavaScript)**. I am always enthusiastic about learning new things and collaborating in teams to create innovative and impactful technology solutions.
