@@ -74,9 +74,7 @@ I am a final-year **Informatics student at UPN Veteran Jakarta** and a passionat
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafie1715&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" width="400" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafie1715&layout=compact&theme=tokyonight" width="400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rafie1715&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 <p align="center">
