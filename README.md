@@ -1,53 +1,84 @@
 # Hi there, I'm Rafie Rojagat Bachri 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Welcome%20to%20my%20Github%20Profile!!!&fontSize=50&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Welcome%20to%20my%20Github%20Profile!!!&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
 </p>
 
- ![Profile Views](https://komarev.com/ghpvc/?username=Rafie1715&style=flat&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rafie1715&style=flat&color=blue" alt="Profile Views"/>
+</p>
 
-I am a final-year Informatics student at UPN Veteran Jakarta and a passionate **2024 Bangkit Academy graduate** specializing in **Software Engineering**. My primary focus is on end-to-end application development, with a specialization in **Mobile Development (Kotlin)** and **Web Development (JavaScript)**. I am always enthusiastic about learning new things and collaborating in teams to create innovative and impactful technology solutions.
+I am a final-year **Informatics student at UPN Veteran Jakarta** and a passionate **2024 Bangkit Academy graduate** specializing in **Software Engineering**. My primary focus is on end-to-end application development, with a specialization in **Mobile Development (Kotlin)** and **Web Development (JavaScript)**.
+
+---
+
+### 🧐 About Me & What I'm Up To
+
+- 🔭 I’m currently working on my Thesis: **Sleep Quality Classification using Random Forest**.
+- 🌱 I’m currently exploring **Flutter & Unity** for cross-platform development.
+- 👯 I’m looking to collaborate on **Open Source Android Apps**.
 
 ---
 
 ### 💻 My Tech Stack
 
-| Web Development | Mobile Development | Languages & Databases | Software & Tools |
-| :---: | :---: | :---: | :---: |
-| <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/></a><br>HTML5 | <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" height="30"/></a><br>Kotlin | <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/></a><br>Java | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/></a><br>Git |
-| <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/></a><br>CSS3 | <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="30" height="30"/></a><br>Android Studio | <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/></a><br>Python | <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/></a><br>GitHub |
-| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/></a><br>JavaScript | | <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/></a><br>C++ | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/></a><br>Figma |
-| <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/></a><br>Bootstrap | | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/></a><br>MySQL | <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="30" height="30"/></a><br>Canva  |
-| <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/></a><br>Node.js | | <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="30" height="30"/></a><br>SQLite | <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="30" height="30"/></a><br>IntelliJ IDEA |
-| <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30" height="30"/></a><br>PHP | | | <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/></a><br>Visual Studio Code |
-| | | | <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="30" height="30"/></a><br>Postman |
-| | | | <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="30" height="30"/></a><br>Firebase |
-| | | | <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="30" height="30"/></a><br>Notion |
+<div align="center">
+	
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  
+  <br/><br/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+
+  <br/><br/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
+</div>
+---
+
+### 🚀 Featured Projects
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**PlanetKu (Bangkit Capstone)**](https://github.com/Rafie1715/PlanetKuApp) | A smart waste management Android app featuring AI-powered classification, a carbon emission calculator, and price prediction. | `Kotlin` `Firebase` `GCP` `ML` |
+| [**CinemaZone (Booking App)**](https://github.com/Rafie1715/CinemaZone) | A Kotlin-based movie ticket booking app with Firebase Auth & Firestore, interactive seat-picker, and Retrofit API integration. | `Kotlin` `Firebase` `Retrofit` |
+| [**Computer Crafter**](https://github.com/inotlusrabka/Computer-Crafter) | A PC assembly simulation website that allows users to virtually build their dream computer. | `JS` `PHP` `MySQL` `Bootstrap` |
+
+➡️ *Check out more projects in my [Repositories](https://github.com/Rafie1715?tab=repositories) tab!*
 
 ---
 
-### 🚀 My Featured Projects
-
-| Project                                     | Short Description                                                                                                                                                             | Key Technologies                                  |
-| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| **PlanetKu (Bangkit Capstone Project)** | A smart waste management Android app featuring AI-powered classification, a carbon emission calculator, and price prediction.                                            | `Kotlin`, `Firebase`, `GCP`, `ML` |
-| **CinemaZone (Movie Ticket Booking App)** | A Kotlin-based movie ticket booking app with Firebase Auth & Firestore, an interactive seat-picker, and movie API integration using Retrofit. | `Kotlin`, `Firebase`, `Retrofit`, `JSON API`       |
-| **Computer Crafter (PC Simulation)** | A PC assembly simulation website that allows users to virtually build their dream computer, preventing real-world assembly mistakes.                  | `JavaScript`, `PHP`, `MySQL`, `Bootstrap`      |
-
-➡️ *Check out more projects in my Repositories tab!*
-
----
-
-### 📊 My GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Rafie1715&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rafie1715&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" />
-  </a>
-  <br/>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafie1715&layout=compact&theme=tokyonight">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafie1715&layout=compact&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafie1715&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafie1715&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Rafie1715/Rafie1715/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </p>
 
 ---
@@ -55,13 +86,13 @@ I am a final-year Informatics student at UPN Veteran Jakarta and a passionate **
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/rafie-rojagat" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://linkedin.com/in/rafie-rojagat" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rafie-rojagat" />
   </a>
-  <a href="https://instagram.com/rafie_rb" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40"/>
+  <a href="https://instagram.com/rafie_rb" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/rafie_rb" />
   </a>
-  <a href="mailto:rojagatrafie@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="40" height="40"/>
+  <a href="mailto:rojagatrafie@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rojagatrafie@gmail.com" />
   </a>
 </p>
