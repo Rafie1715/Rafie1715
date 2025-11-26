@@ -1,14 +1,24 @@
-# Hi there, I'm Rafie Rojagat Bachri 👋
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Rafie%20Rojagat%20Bachri&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlign=50" width="100%"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Welcome%20to%20my%20Github%20Profile!!!&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Final-Year+Informatics+Student;Bangkit+2024+Graduate+%F0%9F%8E%93;Android+Developer+%F0%9F%93%B1;Web+Developer+%F0%9F%8C%90" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rafie1715&style=flat&color=blue" alt="Profile Views"/>
-</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Rafie1715&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  </p>
 
-I am a final-year **Informatics student at UPN Veteran Jakarta** and a passionate **2024 Bangkit Academy graduate** specializing in **Software Engineering**. My primary focus is on end-to-end application development, with a specialization in **Mobile Development (Kotlin)** and **Web Development (JavaScript)**.
+</div>
+
+<div align="center">
+  I am a final-year <b>Informatics Student at UPN Veteran Jakarta</b> and a passionate <br>
+  <b>2024 Bangkit Academy Graduate</b> specializing in <b>Mobile Development (Android)</b>. <br> 
+  I love building impactful apps and exploring new technologies like <b>Flutter & Unity</b>.
+</div>
+
+<br>
 
 ---
 
