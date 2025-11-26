@@ -73,12 +73,13 @@ I am a final-year **Informatics student at UPN Veteran Jakarta** and a passionat
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafie1715&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafie1715&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafie1715&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" width="400" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafie1715&layout=compact&theme=tokyonight" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Rafie1715/Rafie1715/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://github.com/Rafie1715/Rafie1715/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </p>
 
 ---
