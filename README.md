@@ -95,10 +95,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rafie1715&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github.com/Rafie1715/Rafie1715/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </p>
 
