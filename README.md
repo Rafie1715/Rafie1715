@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  I am a final-year <b>Informatics Student at UPN Veteran Jakarta</b> and a passionate specializing in <b>Mobile Development (Android)</b>. <br> 
+  I am a final-year <b>Informatics Student at UPN Veteran Jakarta</b> and a passionate <b>developer</b> specializing in <b>Mobile Development (Android)</b>. <br> 
   I love building impactful apps and exploring new technologies like <b>Flutter & Unity</b>.
 </div>
 
@@ -33,6 +33,7 @@
 
 <div align="center">
 	
+  <h4>📱 Mobile & Cross-Platform</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -45,6 +46,7 @@
   
   <br/><br/>
 
+  <h4>🌐 Web & Frontend</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -53,16 +55,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
 
   <br/><br/>
 
+  <h4>⚙️ Backend, Database & Tools</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -80,7 +83,7 @@
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**PlanetKu (Bangkit Capstone)**](https://github.com/Rafie1715/PlanetKuApp) | A smart waste management Android app featuring AI-powered classification, a carbon emission calculator, and price prediction. | `Kotlin` `Firebase` `GCP` `ML` |
+| [**PlanetKu (Bangkit Capstone)**](https://github.com/Rafie1715/PlanetKuApp) | A smart waste management Android app featuring AI-powered classification, a carbon emission calculator, and price prediction. **(Role: Mobile Developer)** | `Kotlin` `Firebase` `GCP` `ML` |
 | [**CinemaZone (Booking App)**](https://github.com/Rafie1715/CinemaZone) | A Kotlin-based movie ticket booking app with Firebase Auth & Firestore, interactive seat-picker, and Retrofit API integration. | `Kotlin` `Firebase` `Retrofit` |
 | [**Computer Crafter**](https://github.com/inotlusrabka/Computer-Crafter) | A PC assembly simulation website that allows users to virtually build their dream computer. | `JS` `PHP` `MySQL` `Bootstrap` |
 
@@ -88,7 +91,12 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafie1715&show_icons=true&theme=radical&hide_border=true" alt="Rafie's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafie1715&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D stats" width="100%" />
