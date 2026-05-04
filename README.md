@@ -94,7 +94,9 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafie1715&show_icons=true&theme=radical&hide_border=true&v=1" alt="Rafie's GitHub stats" width="48%" />
+  <!-- Memakai server Demolab yang anti-down -->
+  <img src="https://streak-stats.demolab.com?user=Rafie1715&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" width="48%" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafie1715&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" width="48%" />
 </p>
 
