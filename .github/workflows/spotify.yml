@@ -1,0 +1,18 @@
+name: Update Spotify Recently Played
+
+on:
+  schedule:
+    # Berjalan otomatis setiap 1 jam
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: JeffreyCA/spotify-recently-played-readme@v1
+        with:
+          CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
