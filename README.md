@@ -123,4 +123,26 @@
 </p>
 
 <!-- spotify-recently-played-start -->
+<table>
+  <tr>
+    <td><img src="https://i.scdn.co/image/ab67616d00001e02d58121433ea3e6c4822ac494" width="60" height="60" style="border-radius:5px;"></td>
+    <td><a href="https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh"><b>Cincin</b></a><br/>Hindia</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.scdn.co/image/ab67616d00001e0205898628baab6ef07a0a4d03" width="60" height="60" style="border-radius:5px;"></td>
+    <td><a href="https://open.spotify.com/track/63VnhcHMnTPCcd24oVajL6"><b>semua lagu cinta terdengar sama</b></a><br/>Hindia</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.scdn.co/image/ab67616d00001e02d623688488865906052ef96b" width="60" height="60" style="border-radius:5px;"></td>
+    <td><a href="https://open.spotify.com/track/5drW6PGRxkE6MxttzVLNk5"><b>Secukupnya</b></a><br/>Hindia</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.scdn.co/image/ab67616d00001e02d623688488865906052ef96b" width="60" height="60" style="border-radius:5px;"></td>
+    <td><a href="https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF"><b>Rumah Ke Rumah</b></a><br/>Hindia</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.scdn.co/image/ab67616d00001e0287221ad6b867ad30afdf048c" width="60" height="60" style="border-radius:5px;"></td>
+    <td><a href="https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT"><b>Gemilang</b></a><br/>Perunggu</td>
+  </tr>
+</table>
 <!-- spotify-recently-played-end -->
