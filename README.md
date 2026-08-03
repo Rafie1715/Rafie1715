@@ -107,16 +107,6 @@
 
 ---
 
-### 🎧 Recently Played on Spotify
-
-<p align="center">
-  <a href="https://open.spotify.com/user/21shwk52ctjr2jfdjyayni7rq" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21shwk52ctjr2jfdjyayni7rq&unique=true" alt="Spotify Recently Played" />
-  </a>
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
