@@ -9,7 +9,7 @@ I am a highly motivated **Fresh Graduate in Informatics** from Universitas Pemba
 
 *   🎓 **Education:** Informatics Engineering, UPN Veteran Jakarta.
 *   🚀 **Focus Area:** Android Development (Kotlin/Java), Web Development (ReactJS/Vite).
-*   🤖 **Current Interest:** Exploring Artificial Intelligence and Machine Learning, specifically implementing Random Forest algorithms for data classification.
+*   🤖 **Current Interest:** Exploring Artificial Intelligence and Machine Learning, specifically integrating AI for web and mobile apps
 *   📫 **Reach me at:** [[LinkedIn]](https://linkedin.com/in/rafie-rojagat/) | [[Email]](mailto:rojagatrafie@gmail.com)
 
 ---
