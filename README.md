@@ -24,10 +24,10 @@ I am a highly motivated **Fresh Graduate in Informatics** from Universitas Pemba
 ---
 
 ### 🚀 Featured Projects
-*   **[RestUP](#)** - Currently developing an Android application focused on Sleep Quality Classification using Machine Learning (Random Forest).
-*   **[PlanetKu](#)** - Developed a smart waste management Android app featuring AI classification and a carbon emission calculator (Bangkit Academy Capstone).
-*   **[CinemaZone](#)** - A robust movie ticket booking application built using Kotlin, Firebase, and Retrofit.
-*   **[Computer Crafter](#)** - A web-based PC assembly simulation platform crafted with JavaScript, PHP, and MySQL.
+*   **[RestUP](https://github.com/Rafie1715/Sleep-Quality-Monitoring-App-using-Random-Forest)** - Currently developing an Android application focused on Sleep Quality Classification using Machine Learning (Random Forest).
+*   **[PlanetKu](https://github.com/Rafie1715/PlanetKuApp)** - Developed a smart waste management Android app featuring AI classification and a carbon emission calculator (Bangkit Academy Capstone).
+*   **[CinemaZone](https://github.com/Rafie1715/CinemaZone)** - A robust movie ticket booking application built using Kotlin, Firebase, and Retrofit.
+*   **[Computer Crafter](https://github.com/inotlusrabka/Computer-Crafter)** - A web-based PC assembly simulation platform crafted with JavaScript, PHP, and MySQL.
 
 ---
 
